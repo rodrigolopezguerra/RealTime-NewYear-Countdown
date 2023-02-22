@@ -5,7 +5,10 @@
 }
 
 body {
-  background-image: url('https://images.unsplash.com/photo-1467810563316-b5476525c0f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80');
+ 
+/*background-image: url('https://images.unsplash.com/photo-1467810563316-b5476525c0f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80');
+  */
+  background-image: url('https://img.freepik.com/free-photo/abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-backgroundbusiness-reportdigitalwebsite-templatebackdrop_1258-96047.jpg?w=1060&t=st=1677064666~exp=1677065266~hmac=bc7237062464a55c7cd36cbe908ccc70d8f65aa48878c9aa1bb71cfe280c0c59');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
